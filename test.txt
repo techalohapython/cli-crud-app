@@ -1,0 +1,2 @@
+hello
+/home/user/PycharmProjects/PythonProject/test.txt
